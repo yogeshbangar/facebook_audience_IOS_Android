@@ -1,8 +1,8 @@
-# fultter facebook audience network for IOS Android
+# Fultter facebook audience network plugin for IOS & Android
 Flutter facebook audience Network IOS Android Advertisement integration
 
 
-|<img src="https://github.com/yogeshbangar/facebook_audience_IOS_Android/blob/master/ScreanShot/banner.jpg" height="20%" width="20%"><img src="https://github.com/yogeshbangar/facebook_audience_IOS_Android/blob/master/ScreanShot/intertitial.jpg" height="20%" width="20%"><img src="https://github.com/yogeshbangar/facebook_audience_IOS_Android/blob/master/ScreanShot/nativesads.jpg" height="20%" width="20%"><img src="https://github.com/yogeshbangar/facebook_audience_IOS_Android/blob/master/ScreanShot/nativeBannerAd.jpg" height="20%" width="20%">
+<img src="https://github.com/yogeshbangar/facebook_audience_IOS_Android/blob/master/ScreanShot/banner.jpg" height="20%" width="20%"><img src="https://github.com/yogeshbangar/facebook_audience_IOS_Android/blob/master/ScreanShot/intertitial.jpg" height="20%" width="20%"><img src="https://github.com/yogeshbangar/facebook_audience_IOS_Android/blob/master/ScreanShot/nativesads.jpg" height="20%" width="20%"><img src="https://github.com/yogeshbangar/facebook_audience_IOS_Android/blob/master/ScreanShot/nativeBannerAd.jpg" height="20%" width="20%">
 
 
 ## Getting Started
